@@ -2,10 +2,10 @@
 
 Game | System
 --- | ---
-[Pocket Monsters Midori](#Pocket-Monsters-Midori) | GB
+[Pocket Monsters - Midori](#Pocket-Monsters-Midori) | GB
 [Game Title 2](#game-title-2) | GBC
 
-## Pocket Monsters Midori
+## Pocket Monsters - Midori
 
 This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.pocket` format.
 

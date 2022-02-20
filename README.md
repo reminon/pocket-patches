@@ -3,7 +3,7 @@
 Game | System
 --- | ---
 [Pocket Monsters - Midori](#Pocket-Monsters-Midori) | GB
-[Game Title 2](#game-title-2) | GBC
+[Pocket Monsters - Pikachu](#Pocket-Monsters - Pikachu) | GB
 
 ## Pocket Monsters - Midori
 
@@ -13,10 +13,10 @@ ROM MD5; `e30ffbab1f239f09b226477d84db1368`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/reminon-pocket-patches/raw/main/Pocket%20Monsters%20-%20Midori%20(Japan)%20(SGB%20Enhanced).ips).
 
-## Game Title 2
+## Pocket Monsters - Pikachu
 
-This patch converts `Game Title 2 (Rev 1) (U, E)` to `.pocket` format.
+This patch converts `Pocket Monsters - Pikachu (Japan) (SGB Enhanced).gb` to `.pocket` format.
 
-ROM MD5: `MD5 checksum here`
+ROM MD5: `aa13e886a47fd473da63b7d5ddf2828d`
 
-You can [download the Analogue Pocket IPS patch here](URL Here. Change /blob/ to /raw/ for one-click download!).
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Pikachu%20(Japan)%20(SGB%20Enhanced).ips).

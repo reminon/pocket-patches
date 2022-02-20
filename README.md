@@ -11,7 +11,7 @@ This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.po
 
 ROM MD5; `e30ffbab1f239f09b226477d84db1368`
 
-You can [download the Analogue Pocket IPS patch here](URL Here. Change /blob/ to /raw/ for one-click download!).
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/reminon-pocket-patches/raw/main/Pocket%20Monsters%20-%20Midori%20(Japan)%20(SGB%20Enhanced).ips).
 
 ## Game Title 2
 

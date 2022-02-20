@@ -2,14 +2,14 @@
 
 Game | System
 --- | ---
-[Game Title](#game-title) | GB
+[Pocket Monsters Midori](#Pocket-Monsters-Midori) | GB
 [Game Title 2](#game-title-2) | GBC
 
-## Game Title
+## Pocket Monsters Midori
 
-This patch converts `Game Title (U, E)` to `.pocket` format.
+This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.pocket` format.
 
-ROM MD5: `MD5 checksum here`
+ROM MD5; `e30ffbab1f239f09b226477d84db1368`
 
 You can [download the Analogue Pocket IPS patch here](URL Here. Change /blob/ to /raw/ for one-click download!).
 

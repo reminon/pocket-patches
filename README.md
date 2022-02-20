@@ -3,7 +3,7 @@
 Game | System
 --- | ---
 [Pocket Monsters - Midori](#Pocket-Monsters-Midori) | GB
-[Pocket Monsters - Pikachu](#Pocket-Monsters - Pikachu) | GB
+[Pocket Monsters - Pikachu](#Pocket-Monsters-Pikachu) | GB
 
 ## Pocket Monsters - Midori
 

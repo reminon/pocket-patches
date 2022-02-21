@@ -2,10 +2,29 @@
 
 Game | System
 --- | ---
+[Pocket Monsters - Gin](#Pocket-Monsters_Gin) | GBC
+[Pocket Monsters - Kin](#Pocket-Monsters_Kin) | GBC
 [Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
+## Pocket Monsters_Gin
+
+This patch converts `Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible).gb` to `.pocket` format.
+
+ROM MD5; `75519c8b57cea3ac91133b3dec7658de`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20Gin%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
+
+
+## Pocket Monsters_Kin
+
+This patch converts `Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible).gb` to `.pocket` format.
+
+ROM MD5; `85be569fe89f58c40f60480313314c67`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20Kin%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
+
 ## Pocket Monsters_Midori
 
 This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.pocket` format.
@@ -13,6 +32,7 @@ This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.po
 ROM MD5; `e30ffbab1f239f09b226477d84db1368`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/reminon-pocket-patches/raw/main/Pocket%20Monsters%20-%20Midori%20(Japan)%20(SGB%20Enhanced).ips).
+
 
 ## Pocket Monsters_Pikachu
 

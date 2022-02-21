@@ -5,7 +5,7 @@ Game | System
 [Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
-[Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou
+[Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou)
 ## Pocket Monsters_Midori
 
 This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.pocket` format.

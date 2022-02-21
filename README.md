@@ -5,7 +5,7 @@ Game | System
 [Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
-
+[Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou
 ## Pocket Monsters_Midori
 
 This patch converts `Pocket Monsters - Midori (Japan) (SGB Enhanced).gb` to `.pocket` format.
@@ -29,3 +29,11 @@ This patch converts `Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible).gbc` to
 ROM MD5: `a5be435543968412caac1fe7c914472e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Wario%20Land%202%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
+
+## Zelda no Densetsu_Fushigi no Kinomi_Jikuu no Shou
+
+This patch converts `Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan).gbc` to `.pocket` format.
+
+ROM MD5: `a5be435543968412caac1fe7c914472e`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/blob/main/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Jikuu%20no%20Shou%20(Japan).ips).

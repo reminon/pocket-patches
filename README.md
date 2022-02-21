@@ -2,6 +2,7 @@
 
 Game | System
 --- | ---
+[Dragon Quest I&II](#Dragon-Quest-I&II) | GBC
 [GB Genjin 2](#GB-Genjin-2) | GB
 [Pocket Monsters - Gin](#Pocket-Monsters_Gin) | GBC
 [Pocket Monsters - Kin](#Pocket-Monsters_Kin) | GBC
@@ -9,6 +10,15 @@ Game | System
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
+## Dragon Quest I&II
+
+This patch converts `Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible).gbc` to `.pocket` format.
+
+ROM MD5; `5045139eb57b9d6cdfa1366f473a1e4c`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Dragon%20Quest%20I%20%26%20II%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
+
+
 ## GB-Genjin-2
 
 This patch converts `GB Genjin 2 (Japan) (SGB Enhanced).gb` to `.pocket` format.

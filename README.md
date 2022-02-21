@@ -2,12 +2,21 @@
 
 Game | System
 --- | ---
+[GB Genjin 2](#GB-Genjin-2) | GB
 [Pocket Monsters - Gin](#Pocket-Monsters_Gin) | GBC
 [Pocket Monsters - Kin](#Pocket-Monsters_Kin) | GBC
 [Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
+## GB-Genjin-2
+
+This patch converts `GB Genjin 2 (Japan) (SGB Enhanced).gb` to `.pocket` format.
+
+ROM MD5; `b6d07d6830c8517aa96b000d9f3b2bf6`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/GB%20Genjin%202%20(Japan)%20(SGB%20Enhanced).ips).
+
 ## Pocket Monsters_Gin
 
 This patch converts `Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible).gb` to `.pocket` format.
@@ -15,7 +24,6 @@ This patch converts `Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible).
 ROM MD5; `75519c8b57cea3ac91133b3dec7658de`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20Gin%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
-
 
 ## Pocket Monsters_Kin
 

@@ -1,4 +1,4 @@
-## reminon-pocket-patches
+## reminon's pocket patches
 
 Game | System
 --- | ---

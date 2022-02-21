@@ -2,9 +2,9 @@
 
 Game | System
 --- | ---
-[Pocket Monsters - Midori](#Pocket-Monsters-Midori) | GB
-[Pocket Monsters - Pikachu](#Pocket-Monsters-Pikachu) | GB
-[Wario Land 2 - Japan](#Wario-Land-2-Japan) | GBC
+[Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
+[Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
+[Wario Land 2 - Japan](#Wario-Land-2) | GBC
 
 ## Pocket Monsters_Midori
 

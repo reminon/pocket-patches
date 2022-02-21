@@ -34,6 +34,6 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/reminon
 
 This patch converts `Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan).gbc` to `.pocket` format.
 
-ROM MD5: `a5be435543968412caac1fe7c914472e`
+ROM MD5: `484020d0bf01d29f2a74322e0d4acc3a`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/blob/main/Zelda%20no%20Densetsu%20-%20Fushigi%20no%20Kinomi%20-%20Jikuu%20no%20Shou%20(Japan).ips).

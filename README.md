@@ -67,7 +67,7 @@ This patch converts `Pokemon - Gelbe Edition - Special Pikachu Edition (Germany)
 
 ROM MD5: `e93f10168e3c9b9d18e3ad4a1415e1d0`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/blob/main/Pokemon%20-%20Gelbe%20Edition%20-%20Special%20Pikachu%20Edition%20(Germany)%20(GBC%2CSGB%20Enhanced).ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pokemon%20-%20Gelbe%20Edition%20-%20Special%20Pikachu%20Edition%20(Germany)%20(GBC%2CSGB%20Enhanced).ips).
 
 ## Wario Land 2
 

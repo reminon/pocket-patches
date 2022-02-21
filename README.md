@@ -8,6 +8,7 @@ Game | System
 [Pocket Monsters - Kin](#Pocket-Monsters_Kin) | GBC
 [Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
+[Pokemon Gelbe Edition](#Pokemon-Gelbe-Edition) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
 ## Dragon Quest-1and2
@@ -59,6 +60,14 @@ This patch converts `Pocket Monsters - Pikachu (Japan) (SGB Enhanced).gb` to `.p
 ROM MD5: `aa13e886a47fd473da63b7d5ddf2828d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Pikachu%20(Japan)%20(SGB%20Enhanced).ips).
+
+## Pokemon Gelbe Edition
+
+This patch converts `Pokemon - Gelbe Edition - Special Pikachu Edition (Germany) (GBC,SGB Enhanced).gb` to `.pocket` format.
+
+ROM MD5: `e93f10168e3c9b9d18e3ad4a1415e1d0`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/blob/main/Pokemon%20-%20Gelbe%20Edition%20-%20Special%20Pikachu%20Edition%20(Germany)%20(GBC%2CSGB%20Enhanced).ips).
 
 ## Wario Land 2
 

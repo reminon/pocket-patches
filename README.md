@@ -22,7 +22,7 @@ ROM MD5: `aa13e886a47fd473da63b7d5ddf2828d`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Pocket%20Monsters%20-%20Pikachu%20(Japan)%20(SGB%20Enhanced).ips).
 
-## Wario Land 2 - Japan
+## Wario Land 2-Japan
 
 This patch converts `Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible).gbc` to `.pocket` format.
 

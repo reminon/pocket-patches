@@ -2,7 +2,7 @@
 
 Game | System
 --- | ---
-[Dragon Quest I&II](#Dragon-Quest_I&II) | GBC
+[Dragon Quest I&II](#Dragon-Quest-IandII) | GBC
 [GB Genjin 2](#GB-Genjin-2) | GB
 [Pocket Monsters - Gin](#Pocket-Monsters_Gin) | GBC
 [Pocket Monsters - Kin](#Pocket-Monsters_Kin) | GBC
@@ -10,7 +10,7 @@ Game | System
 [Pocket Monsters - Pikachu](#Pocket-Monsters_Pikachu) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
-## Dragon Quest_I&II
+## Dragon Quest-IandII
 
 This patch converts `Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible).gbc` to `.pocket` format.
 

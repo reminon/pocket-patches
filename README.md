@@ -14,6 +14,7 @@ Game | System
 [Pokemon Gelbe Edition](#Pokemon-Gelbe-Edition) | GB
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
+[Zelda no Densetsu-Fushigi no Kinomi-Daichi no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Daichi-no-Shou) | GBC
 ## Dragon Quest-1and2
 
 This patch converts `Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible).gbc` to `.pocket` format.

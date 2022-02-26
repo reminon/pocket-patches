@@ -21,7 +21,7 @@ ROM MD5; `5045139eb57b9d6cdfa1366f473a1e4c`
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Dragon%20Quest%20I%20%26%20II%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
 
 
-## GB-Genjin-2
+## GB Genjin 2
 
 This patch converts `GB Genjin 2 (Japan) (SGB Enhanced).gb` to `.pocket` format.
 
@@ -29,7 +29,7 @@ ROM MD5; `b6d07d6830c8517aa96b000d9f3b2bf6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/GB%20Genjin%202%20(Japan)%20(SGB%20Enhanced).ips).
 
-## Midori-no-Makibaou
+## Midori no Makibaou
 
 This patch converts `Midori no Makibaou (Japan) (SGB Enhanced).gb` to `.pocket` format.
 

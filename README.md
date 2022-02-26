@@ -4,6 +4,7 @@ Game | System
 --- | ---
 [Dragon Quest I&II](#Dragon-Quest-1and2) | GBC
 [GB Genjin 2](#GB-Genjin-2) | GB
+[Midori no Makibaou](#Midori-no-Makibaou) | GB
 [Pocket Monsters - Gin](#Pocket-Monsters_Gin) | GBC
 [Pocket Monsters - Kin](#Pocket-Monsters_Kin) | GBC
 [Pocket Monsters - Midori](#Pocket-Monsters_Midori) | GB
@@ -27,6 +28,14 @@ This patch converts `GB Genjin 2 (Japan) (SGB Enhanced).gb` to `.pocket` format.
 ROM MD5; `b6d07d6830c8517aa96b000d9f3b2bf6`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/GB%20Genjin%202%20(Japan)%20(SGB%20Enhanced).ips).
+
+## Midori-no-Makibaou
+
+This patch converts `Midori no Makibaou (Japan) (SGB Enhanced).gb` to `.pocket` format.
+
+ROM MD5; `c29df42ef1237c4392049196d2205ffe`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Midori%20no%20Makibaou%20(Japan)%20(SGB%20Enhanced).ips).
 
 ## Pocket Monsters_Gin
 

@@ -15,6 +15,7 @@ Game | System
 [Pokemon - Rote Edition](#Pokemon-Rote-Edition) | GB
 [Tokoro-san no Setagaya C.C.](#Wario-Land-2) | GBC
 [Wario Land 2 - Japan](#Wario-Land-2) | GBC
+[Yoshi no Panepon](#Yoshi-no-Panepon) | GB
 [Zelda no Densetsu-Fushigi no Kinomi-Jikuu no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Jikuu-no-Shou) | GBC
 [Zelda no Densetsu-Fushigi no Kinomi-Daichi no Shou](#Zelda-no-Densetsu_Fushigi-no-Kinomi_Daichi-no-Shou) | GBC
 ## Dragon Quest-1and2
@@ -122,6 +123,14 @@ This patch converts `Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible).gbc` to
 ROM MD5: `a5be435543968412caac1fe7c914472e`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Wario%20Land%202%20(Japan)%20(SGB%20Enhanced)%20(GB%20Compatible).ips).
+
+## Yoshi no Panepon
+
+This patch converts `Yoshi no Panepon (Japan) (SGB Enhanced).gb` to `.pocket` format.
+
+ROM MD5: `11be7ff8141f8d7a5c8cca903151f0ba`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/reminon/pocket-patches/raw/main/Yoshi%20no%20Panepon%20(Japan)%20(SGB%20Enhanced).ips).
 
 ## Zelda no Densetsu_Fushigi no Kinomi_Jikuu no Shou
 
